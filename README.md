@@ -46,4 +46,4 @@ For any queries or support, please reach out to us through the contact form on t
 
 ## License
 
-© 2024 ITVersity, Inc. All rights reserved. 
+© 2024 ITVersity, Inc. All rights reserved.
